@@ -1,6 +1,8 @@
 # datascience_casestudy1
+**Task:**
 From given accounts and tickets data, identify the applied method and compute the corresponding additional load.
 
+**Usage:**
 Just place the "solution.py" in the directory where "accounts_v2.csv" and "tickets_v2.csv" are located.
 
 You can also place it anywhere but provide the paths of above files as commandline arguments.
